@@ -1,0 +1,1 @@
+SmartScan utility library for the PhotoNext project
